@@ -1,0 +1,83 @@
+@import "tailwindcss";
+
+/* 🌙 Root Theme */
+:root {
+  --bg-primary: #020617;
+  --bg-secondary: #0f172a;
+  --card-bg: rgba(30, 41, 59, 0.7);
+
+  --text-primary: #ffffff;
+  --text-secondary: #cbd5f5;
+
+  --border-color: #334155;
+}
+
+/* 🌐 Base styles */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", system-ui, sans-serif;
+
+  background: linear-gradient(135deg, #020617, #0f172a);
+  color: var(--text-primary);
+
+  min-height: 100vh;
+}
+
+/* ✨ Smooth UI feel */
+* {
+  box-sizing: border-box;
+  transition: all 0.2s ease-in-out;
+}
+
+/* 🔗 Links */
+a {
+  text-decoration: none;
+  color: var(--text-secondary);
+}
+
+a:hover {
+  color: white;
+}
+
+/* 🧊 Card utility */
+.card {
+  background: var(--card-bg);
+  backdrop-filter: blur(10px);
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
+}
+
+/* 🔘 Button base */
+.btn {
+  padding: 10px 16px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+/* 🔵 Primary button */
+.btn-primary {
+  background: linear-gradient(90deg, #3b82f6, #6366f1);
+  color: white;
+}
+
+/* 🟢 Success button */
+.btn-success {
+  background: linear-gradient(90deg, #10b981, #059669);
+  color: white;
+}
+
+/* 🔴 Danger button */
+.btn-danger {
+  background: #ef4444;
+  color: white;
+}
+
+/* ✨ Hover effects */
+.btn:hover {
+  transform: translateY(-2px);
+  opacity: 0.9;
+}
