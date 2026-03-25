@@ -170,20 +170,36 @@ Frontend Developer (React / Next.js)
 
 ##📸 Screenshots
 
+🔐 Login Page
+<img width="1882" height="976" alt="image" src="https://github.com/user-attachments/assets/f7e87bf4-0d3a-4c2c-a912-cb2b99640f75" />
+
+
+📝 Registration Page
+
+<img width="1854" height="981" alt="image" src="https://github.com/user-attachments/assets/cd60f2e7-94d1-44dc-aa2b-ac75643cd301" />
+
 
 🏠 Dashboard (Admin)
 
-
+<img width="1879" height="1005" alt="image" src="https://github.com/user-attachments/assets/13a6f965-1ee0-48f6-b315-2d9b5901943d" />
 
 
 🛍️ Shop Page (Customer)
 
-
+<img width="1889" height="994" alt="image" src="https://github.com/user-attachments/assets/aa0a027e-53ea-4377-b4f6-77b44cc55bb3" />
 
 
 🧾 Orders Page (Admin)
 
+<img width="1877" height="986" alt="image" src="https://github.com/user-attachments/assets/525c713c-d27e-4278-a8a0-74c7a935d2b6" />
 
+
+🛒 Products (Admin)
+
+<img width="1862" height="983" alt="image" src="https://github.com/user-attachments/assets/f2412eaf-9fe8-4010-bcd2-1358cb1e8c72" />
 
 
 📦 My Orders (Customer)
+
+<img width="1860" height="956" alt="image" src="https://github.com/user-attachments/assets/35693846-9fec-4e46-bc9e-e52b01be344d" />
+
